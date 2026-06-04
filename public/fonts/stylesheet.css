@@ -1,0 +1,273 @@
+@font-face {
+    font-family: 'Merlod Autre';
+    src: url('MerlodAutre-ExtraLight.eot');
+    src: local('Merlod Autre Extra Light'), local('MerlodAutre-ExtraLight'),
+        url('MerlodAutre-ExtraLight.eot?#iefix') format('embedded-opentype'),
+        url('MerlodAutre-ExtraLight.woff2') format('woff2'),
+        url('MerlodAutre-ExtraLight.woff') format('woff'),
+        url('MerlodAutre-ExtraLight.ttf') format('truetype');
+    font-weight: 200;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Merlod Autre';
+    src: url('MerlodAutre-Bold.eot');
+    src: local('Merlod Autre Bold'), local('MerlodAutre-Bold'),
+        url('MerlodAutre-Bold.eot?#iefix') format('embedded-opentype'),
+        url('MerlodAutre-Bold.woff2') format('woff2'),
+        url('MerlodAutre-Bold.woff') format('woff'),
+        url('MerlodAutre-Bold.ttf') format('truetype');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Merlod Norme';
+    src: url('MerlodNorme-Bold.eot');
+    src: local('Merlod Norme Bold'), local('MerlodNorme-Bold'),
+        url('MerlodNorme-Bold.eot?#iefix') format('embedded-opentype'),
+        url('MerlodNorme-Bold.woff2') format('woff2'),
+        url('MerlodNorme-Bold.woff') format('woff'),
+        url('MerlodNorme-Bold.ttf') format('truetype');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Merlod Autre';
+    src: url('MerlodAutre-Black.eot');
+    src: local('Merlod Autre Black'), local('MerlodAutre-Black'),
+        url('MerlodAutre-Black.eot?#iefix') format('embedded-opentype'),
+        url('MerlodAutre-Black.woff2') format('woff2'),
+        url('MerlodAutre-Black.woff') format('woff'),
+        url('MerlodAutre-Black.ttf') format('truetype');
+    font-weight: 900;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Merlod Autre';
+    src: url('MerlodAutre-SemiBold.eot');
+    src: local('Merlod Autre Semi Bold'), local('MerlodAutre-SemiBold'),
+        url('MerlodAutre-SemiBold.eot?#iefix') format('embedded-opentype'),
+        url('MerlodAutre-SemiBold.woff2') format('woff2'),
+        url('MerlodAutre-SemiBold.woff') format('woff'),
+        url('MerlodAutre-SemiBold.ttf') format('truetype');
+    font-weight: 600;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Merlod Autre';
+    src: url('MerlodAutre-Regular.eot');
+    src: local('Merlod Autre'), local('MerlodAutre-Regular'),
+        url('MerlodAutre-Regular.eot?#iefix') format('embedded-opentype'),
+        url('MerlodAutre-Regular.woff2') format('woff2'),
+        url('MerlodAutre-Regular.woff') format('woff'),
+        url('MerlodAutre-Regular.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Merlod Autre';
+    src: url('MerlodAutre-Thin.eot');
+    src: local('Merlod Autre Thin'), local('MerlodAutre-Thin'),
+        url('MerlodAutre-Thin.eot?#iefix') format('embedded-opentype'),
+        url('MerlodAutre-Thin.woff2') format('woff2'),
+        url('MerlodAutre-Thin.woff') format('woff'),
+        url('MerlodAutre-Thin.ttf') format('truetype');
+    font-weight: 100;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Merlod Norme';
+    src: url('MerlodNorme-Black.eot');
+    src: local('Merlod Norme Black'), local('MerlodNorme-Black'),
+        url('MerlodNorme-Black.eot?#iefix') format('embedded-opentype'),
+        url('MerlodNorme-Black.woff2') format('woff2'),
+        url('MerlodNorme-Black.woff') format('woff'),
+        url('MerlodNorme-Black.ttf') format('truetype');
+    font-weight: 900;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Merlod Norme';
+    src: url('MerlodNorme-ExtraLight.eot');
+    src: local('Merlod Norme Extra Light'), local('MerlodNorme-ExtraLight'),
+        url('MerlodNorme-ExtraLight.eot?#iefix') format('embedded-opentype'),
+        url('MerlodNorme-ExtraLight.woff2') format('woff2'),
+        url('MerlodNorme-ExtraLight.woff') format('woff'),
+        url('MerlodNorme-ExtraLight.ttf') format('truetype');
+    font-weight: 200;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Merlod Norme';
+    src: url('MerlodNorme-Light.eot');
+    src: local('Merlod Norme Light'), local('MerlodNorme-Light'),
+        url('MerlodNorme-Light.eot?#iefix') format('embedded-opentype'),
+        url('MerlodNorme-Light.woff2') format('woff2'),
+        url('MerlodNorme-Light.woff') format('woff'),
+        url('MerlodNorme-Light.ttf') format('truetype');
+    font-weight: 300;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Merlod Autre';
+    src: url('MerlodAutre-Light.eot');
+    src: local('Merlod Autre Light'), local('MerlodAutre-Light'),
+        url('MerlodAutre-Light.eot?#iefix') format('embedded-opentype'),
+        url('MerlodAutre-Light.woff2') format('woff2'),
+        url('MerlodAutre-Light.woff') format('woff'),
+        url('MerlodAutre-Light.ttf') format('truetype');
+    font-weight: 300;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Merlod Queue';
+    src: url('MerlodQueue-Light.eot');
+    src: local('Merlod Queue Light'), local('MerlodQueue-Light'),
+        url('MerlodQueue-Light.eot?#iefix') format('embedded-opentype'),
+        url('MerlodQueue-Light.woff2') format('woff2'),
+        url('MerlodQueue-Light.woff') format('woff'),
+        url('MerlodQueue-Light.ttf') format('truetype');
+    font-weight: 300;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Merlod Queue';
+    src: url('MerlodQueue-Thin.eot');
+    src: local('Merlod Queue Thin'), local('MerlodQueue-Thin'),
+        url('MerlodQueue-Thin.eot?#iefix') format('embedded-opentype'),
+        url('MerlodQueue-Thin.woff2') format('woff2'),
+        url('MerlodQueue-Thin.woff') format('woff'),
+        url('MerlodQueue-Thin.ttf') format('truetype');
+    font-weight: 100;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Merlod Norme';
+    src: url('MerlodNorme-Regular.eot');
+    src: local('Merlod Norme'), local('MerlodNorme-Regular'),
+        url('MerlodNorme-Regular.eot?#iefix') format('embedded-opentype'),
+        url('MerlodNorme-Regular.woff2') format('woff2'),
+        url('MerlodNorme-Regular.woff') format('woff'),
+        url('MerlodNorme-Regular.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Merlod Norme';
+    src: url('MerlodNorme-Thin.eot');
+    src: local('Merlod Norme Thin'), local('MerlodNorme-Thin'),
+        url('MerlodNorme-Thin.eot?#iefix') format('embedded-opentype'),
+        url('MerlodNorme-Thin.woff2') format('woff2'),
+        url('MerlodNorme-Thin.woff') format('woff'),
+        url('MerlodNorme-Thin.ttf') format('truetype');
+    font-weight: 100;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Merlod Queue';
+    src: url('MerlodQueue-Bold.eot');
+    src: local('Merlod Queue Bold'), local('MerlodQueue-Bold'),
+        url('MerlodQueue-Bold.eot?#iefix') format('embedded-opentype'),
+        url('MerlodQueue-Bold.woff2') format('woff2'),
+        url('MerlodQueue-Bold.woff') format('woff'),
+        url('MerlodQueue-Bold.ttf') format('truetype');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Merlod Queue';
+    src: url('MerlodQueueRegular.eot');
+    src: local('Merlod Queue'), local('MerlodQueueRegular'),
+        url('MerlodQueueRegular.eot?#iefix') format('embedded-opentype'),
+        url('MerlodQueueRegular.woff2') format('woff2'),
+        url('MerlodQueueRegular.woff') format('woff'),
+        url('MerlodQueueRegular.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Merlod Queue';
+    src: url('MerlodQueue-ExtraLight.eot');
+    src: local('Merlod Queue Extra Light'), local('MerlodQueue-ExtraLight'),
+        url('MerlodQueue-ExtraLight.eot?#iefix') format('embedded-opentype'),
+        url('MerlodQueue-ExtraLight.woff2') format('woff2'),
+        url('MerlodQueue-ExtraLight.woff') format('woff'),
+        url('MerlodQueue-ExtraLight.ttf') format('truetype');
+    font-weight: 200;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Merlod Queue';
+    src: url('MerlodQueue-Black.eot');
+    src: local('Merlod Queue Black'), local('MerlodQueue-Black'),
+        url('MerlodQueue-Black.eot?#iefix') format('embedded-opentype'),
+        url('MerlodQueue-Black.woff2') format('woff2'),
+        url('MerlodQueue-Black.woff') format('woff'),
+        url('MerlodQueue-Black.ttf') format('truetype');
+    font-weight: 900;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Merlod Queue';
+    src: url('MerlodQueue-SemiBold.eot');
+    src: local('Merlod Queue Semi Bold'), local('MerlodQueue-SemiBold'),
+        url('MerlodQueue-SemiBold.eot?#iefix') format('embedded-opentype'),
+        url('MerlodQueue-SemiBold.woff2') format('woff2'),
+        url('MerlodQueue-SemiBold.woff') format('woff'),
+        url('MerlodQueue-SemiBold.ttf') format('truetype');
+    font-weight: 600;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Merlod Norme';
+    src: url('MerlodNorme-SemiBold.eot');
+    src: local('Merlod Norme Semi Bold'), local('MerlodNorme-SemiBold'),
+        url('MerlodNorme-SemiBold.eot?#iefix') format('embedded-opentype'),
+        url('MerlodNorme-SemiBold.woff2') format('woff2'),
+        url('MerlodNorme-SemiBold.woff') format('woff'),
+        url('MerlodNorme-SemiBold.ttf') format('truetype');
+    font-weight: 600;
+    font-style: normal;
+    font-display: swap;
+}
+
